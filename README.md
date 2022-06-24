@@ -6,10 +6,6 @@ It is a non-technical talk about technical things for non-technical audience. It
 
 ## Usage
 
-### View
-
-The complete, generated presentation is available [here].
-
 ### Modify
 
 To edit the existing presentation, you'll require a python environment with either jupyter-notebook or jupyter-lab:
